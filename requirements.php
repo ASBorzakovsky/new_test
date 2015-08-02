@@ -1,5 +1,6 @@
 <?php
 /**
+ * Ну, допустим я меняю этот комментарий
  * Application requirement checker script.
  *
  * In order to run this script use the following console command:
